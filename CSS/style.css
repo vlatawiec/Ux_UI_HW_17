@@ -1,0 +1,125 @@
+
+
+/* Typography */
+
+h1 {
+  font-size: 48pt;
+  letter-spacing: 5%;
+  line-height: 30%;
+  font-style: normal;
+  font-weight: bolder;
+  font-family: nunito;
+}
+h2 {
+  font-size: 24pt;
+  letter-spacing: 2pt;
+  line-height: normal;
+  font-style: normal;
+  font-weight: semi-bold;
+  font-family: nunito;
+}
+p {
+  font-size: 16pt;
+  letter-spacing: 2pt;
+  line-height: normal;
+  font-style: normal;
+  font-weight: normal;
+  font-family: Open sans;
+}
+
+/* Nav */
+.inline-block {
+  display: inline-block;
+  vertical-align: top;
+}
+nav {
+  width: 50%;
+  padding: 1%;
+}
+.navItems {
+  width: 50%;
+  margin-right: 15px;
+  display: inline-block;
+}
+.navlink {
+  font-size: 18pt;
+  color: #ada8b6;
+  display: flex;
+}
+.logo {
+  width: 23%;
+  padding: 1%;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  }
+/* Hero Section */
+
+.hero {
+  height: 600px;
+  padding: 25px;
+  display: flex;
+  margin: 50px;
+}
+.Content {
+  width: 500px;
+  margin: 0 auto;
+}
+.herotext {
+  position: absolute;
+  padding: 6%;
+  margin-right: 50px;
+}
+.Itext {
+  width: auto;
+  height: auto;
+}
+/* Body */
+}body {
+  width: 100%;
+}
+
+/* Footer */
+footer {
+  background-color: #f5f0f6;
+  padding: 
+}
+.footernav {
+  display: inline-block;
+  vertical-align: top;
+  padding: 
+}
+p{
+  font-size: 14pt;
+}
+
+/* Buttons */
+.button {
+  background-color: #ffbf3b;
+  color: white;
+  font-family: nunito;
+  font-weight: bold;
+  font-size: 18;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 10pt;
+}
+.button2 {
+  background-color: white;
+  color: #ada8b6;
+  font-family: nunito;
+  font-weight: bold;
+  font-size: 18;
+  border: #ada8b6;
+  width: 50px;
+  height: 50px;
+  border-style: solid;
+  padding: 15px 32px;
+  text-align: center;
+  border-radius: 10pt;
+}
